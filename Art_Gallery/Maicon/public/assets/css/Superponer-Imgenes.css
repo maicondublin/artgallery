@@ -1,0 +1,24 @@
+.img-move-wrapper {
+  border: 1px solid red;
+  position: relative;
+  overflow: hidden;
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+@media (min-width: 769px) {
+  .img-move {
+    position: absolute;
+    width: 55%;
+  }
+}
+
+.img-move-1 {
+  left: 0;
+}
+
+.img-move-2 {
+  right: 0;
+  bottom: 0;
+}
+

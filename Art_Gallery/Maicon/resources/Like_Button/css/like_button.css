@@ -1,0 +1,11 @@
+img.download-icon {
+    width: 25px;
+}
+
+.icon-like:hover {
+    filter: invert(27%) sepia(51%) saturate(500%) hue-rotate(190deg) brightness(150%) contrast(150%);
+}
+
+.icon-like-blue {
+    filter: invert(27%) sepia(51%) saturate(500%) hue-rotate(190deg) brightness(150%) contrast(150%);
+}

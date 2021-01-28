@@ -1,0 +1,17 @@
+ShowFavorites new feature to show author's name
+ShowArtsPanel new feature to show author's name
+ShowArts new feature to show author's name, it has changed a lot
+ArtSettings
+ViewArt
+
+LoadArts.Controller has changed a lot
+PageArts.Controller has changed a lot
+SearchArts.Controller has changed a lot
+Art database - search_content
+ViewFeatures - Favorite was corrected
+session file - created in the include folder in public/includes
+session file - edited in the folder App/includes
+
+Favorite button is fixed
+Delete cascade
+Order any list ascendant
